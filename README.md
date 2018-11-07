@@ -1,0 +1,3 @@
+#This is a Idea about Geometric Mathematics
+With a role to help players prove the Geometric Mathmatics Problems.
+But it seems a little difficult for me now ...
